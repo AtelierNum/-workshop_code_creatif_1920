@@ -1,10 +1,10 @@
 # workshop_code_creatif_1920
-This repo holds the code and documentation for the creative coding workshop @lecolededesign. Production were made by students in 2nd year of interaction design using process. The **code** is available [here](https://github.com/AtelierNum/workshop_code_creatif_1920)
+This repo holds the code and documentation for the creative coding workshop @lecolededesign. Production were made by students in 2nd year of interaction design using process. The **code** is available [github](https://github.com/AtelierNum/workshop_code_creatif_1920)
 
 Full videos are available [here](https://github.com/AtelierNum/workshop_code_creatif_1920/releases/tag/1.0)
 
 
-Cette page regroupe les projets réalisés par les étudiants de deuxième année en design d'interaction @lecolededesign. Le code est disponnible [ici](https://github.com/AtelierNum/workshop_code_creatif_1920)
+Cette page regroupe les projets réalisés par les étudiants de deuxième année en design d'interaction @lecolededesign. Le code est disponnible sur [github](https://github.com/AtelierNum/workshop_code_creatif_1920)
 
 
 L'ensemble des vidéos de présentation des projets est disponible [ici](https://github.com/AtelierNum/workshop_code_creatif_1920/releases/tag/1.0)
