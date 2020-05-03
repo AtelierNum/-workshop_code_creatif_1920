@@ -29,7 +29,7 @@ Réalisé par : **Dohyeon Kim** - **Enora Delavigne** - **Marie Sambron** - **Ev
 
 “Zéphyr” est une expérience immersive, elle utilise la technologie du Leap Motion (dispositif de détection et d’analyse des gestes de la main) et du code Processing. L’utilisateur doit découvrir et interagir avec diverses animations en utilisant ses mains. 
 
-[Cahier de recherche](https://github.com/AtelierNum/workshop_code_creatif_1920/blob/master/Groupe2_zephyr/documentation.pdf)
+[Cahier de recherche](https://github.com/AtelierNum/workshop_code_creatif_1920/blob/master/Groupe8_zephyr/documentation.pdf)
 
 
 ## Kyu 
